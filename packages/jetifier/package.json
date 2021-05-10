@@ -44,7 +44,7 @@
     "nodemon": "1.19.4"
   },
   "dependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "glob": "7.1.6"
   }
 }
